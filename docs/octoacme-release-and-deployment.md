@@ -14,6 +14,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Execution-to-release handoff checklist completed (`octoacme-delivery-accountability-templates.md`)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)

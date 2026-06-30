@@ -19,6 +19,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Extended roles (see `octoacme-roles-and-personas.md`): Engineering Manager/Tech Lead, UX Designer/Researcher, Security/Compliance, SRE/Ops, Customer Support/Success, Data Analyst.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -26,6 +27,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- RACI matrix, handoff checklist, dependency/decision log, and risk ownership checklist (see `octoacme-delivery-accountability-templates.md`)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)

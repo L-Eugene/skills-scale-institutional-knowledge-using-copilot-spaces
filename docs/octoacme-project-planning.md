@@ -34,6 +34,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Use `octoacme-delivery-accountability-templates.md` for RACI, dependency log, decision log, and risk ownership checks
 
 ## Planning Checklist
 - [ ] Project kickoff held

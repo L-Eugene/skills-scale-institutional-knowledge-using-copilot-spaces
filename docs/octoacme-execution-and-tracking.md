@@ -38,3 +38,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Handoff checklist completed (`octoacme-delivery-accountability-templates.md`)
