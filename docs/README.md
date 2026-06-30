@@ -18,3 +18,4 @@ Quality assurance and release readiness are built into execution. Work is expect
 - [OctoAcme Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme Delivery Accountability Templates](./octoacme-delivery-accountability-templates.md)
